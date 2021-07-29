@@ -20,3 +20,9 @@ My name is CaptainBeast i am a Software Developer
  
  
  🕹 `Minecraft, BGMI, PUBG, FreeFire`
+ 
+ ---------------------------------------------------------------------------------------
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowEmperorYT)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
